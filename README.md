@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. I'm a passionate programmer, AI enthusiast, and gamer with a love for Soulslike games, lore, and technology.
 ## Site
-kirinzero.site
+  🖥️ [kirinzero.site](https://www.kirinzero.site/)
 
 ## About Me
 
