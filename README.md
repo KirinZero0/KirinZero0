@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Arya! 
 
 Welcome to my GitHub profile. I'm a passionate programmer, AI enthusiast, and gamer with a love for Soulslike games, lore, and technology.
+## Site
+kirinzero.site
 
 ## About Me
 
